@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Maybe list our values?",
+    "Abolishing ICE",
+    "Fully automated luxury gay space eco communism"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Being Rude on the Internet"
+  institution = "Duke University"
+  year = 2024
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BA in Psychology"
+  institution = "The University of the South"
+  year = 2019
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Certificate in Homosexual Neuroticism"
+  institution = "North Carolina School of Science and Mathematics"
+  year = 2014
  
 +++
 
-# Biography
+# About Us
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Our mission statement can go here, in addition to our praxis or why people should be socialists. I kind of want this site to also serve as the home for a digital magazine. The interests and education subsections are probably unecessary. My information doesn't need to be there.  
